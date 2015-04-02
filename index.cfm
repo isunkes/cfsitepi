@@ -1,1 +1,1 @@
-<cfoutput>#now#</cfoutput>
+<cfoutput>#now()#</cfoutput>
