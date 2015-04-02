@@ -50,7 +50,7 @@
                 <div class="col-sm-6">
                     <div class="hero-unit">
                         <h1>Isaac's Raspberry Pi</h1>
-                        <p>A Coldfusion server powered by Commandbox.</p>
+                        <p>A Raspberry Pi Coldfusion server powered by Commandbox, MySQL, and ngrok.</p>
                     </div>
                     <!---<div class="btns">
                         <a class="btn btn-large btn-primary" href="#">Join Startup Kit</a>
